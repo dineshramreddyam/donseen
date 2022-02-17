@@ -1,0 +1,22 @@
+1 My name is Dinesh, I have around 2.6 years of experiance in DevOps
+  and AWS (cloud)
+2 Currentely I am working in Infosys as AWS DevOps Engineer, 
+3 I’m working on Terraform  infrastructure provisioning, 
+  IAM for managing permission, 
+4 lambda for automating operational tasks, autoscaling, ALB, S3, EC2, 
+5 packer for building custom AMIs, setting up EC2 instances,
+  managing DNS using route53,
+6 setting up cloudwatch dashboards, and turning on cloud trails, etc
+7 as a part of my role, I am responsible to setup and 
+  manage DevOps CI/CD pipelines
+8 I have used various DevOps tools like 
+
+GIT - for version control system
+Jenkins - for cintinious integration
+maven - as build tool
+SonarQube - for code analysis
+Nexus - for Artifact repository
+Ansible - for continious management
+Docker - for containerzation
+Kubernetes - for container archestration
+
